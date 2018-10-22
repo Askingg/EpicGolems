@@ -1,0 +1,11 @@
+name: EpicGolems
+author: Askingg
+depend: [Vault]
+version: 1.0
+main: me.askingg.golems.main.Main
+description: Custom Iron Golems Plugin
+
+commands:
+  golems:
+   description: Base Command
+   aliases: [g]
